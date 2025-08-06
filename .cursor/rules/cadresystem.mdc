@@ -1,0 +1,20 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+请遵守Element Plus使用规范，官方使用文档地址：https://element-plus.org/zh-CN/guide/design.html，    组件库地址：https://element-plus.org/zh-CN/component/overview.html
+请遵守Echarts的使用规范，官方使用文档地址：https://echarts.apache.org/handbook/zh/get-started/， 样式示例如下：https://echarts.apache.org/examples/zh/index.html
+本项目涉及到的技术栈如下：
+前端框架
+Vue.js 3.x (vue: ^3.5.13)
+Vue Router 4.x (vue-router: ^4.5.0) - 用于路由管理
+UI 组件库
+Element Plus (element-plus: ^2.9.11) - 基于 Vue 3 的组件库
+数据可视化
+ECharts (echarts: ^5.6.0) - 功能强大的图表库
+构建工具
+Vite (vite: ^6.2.4) - 现代前端构建工具
+@vitejs/plugin-vue (^5.2.3) - Vite 的 Vue 插件
+
+vite-plugin-vue-devtools (^7.7.2) - Vue 开发工具插件
